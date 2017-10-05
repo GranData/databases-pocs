@@ -1,0 +1,89 @@
+build/
+.idea/
+nbproject/
+
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+cmake-build-debug/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# --- JVM
+
+*.class
+#*.log
+*.ll
+*.dot
+*.db
+*.jar
+docs/build/
+build/
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/plugins/src_managed/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+*.tmproj
+*.swp
+*.iml
+out/
+.ensime
+*~
+*#
+.#*
+.ivyjars
+.idea
+.DS_Store
+sbt-launch.jar
+.classpath
+.project
+.settings
+.cache
+*.sc
+.worksheet
